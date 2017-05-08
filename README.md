@@ -15,4 +15,6 @@ Learn everything you need to about the subject of this `Project`.
 
 ## Topics
 ```
+[x] quina function implemented
+[ ] sum() not yet implemented
 ```
